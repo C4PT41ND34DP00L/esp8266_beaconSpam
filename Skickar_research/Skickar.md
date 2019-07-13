@@ -2,7 +2,7 @@
 
 ```python
 ## Here, we study a capture in which real clients have had their real MAC addresses unmasked by a fake network.
-## When a Client responds to a fake network, this a "hit" occurs
+## When a Client responds to a fake network, a "hit" occurs
 ## A "hit" means we've matched a network stored on the Preferred Network List of the targeted Client device.
 
 
